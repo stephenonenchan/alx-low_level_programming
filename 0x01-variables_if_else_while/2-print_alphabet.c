@@ -1,19 +1,15 @@
 #include <stdio.h>
 /**
- * main - entry
- * printing lowercase numbers using putchar
- * return: always 0.(success)
+ * main - prints alpha in lower case
+ * return: Always 0
  */
 int main(void)
 {
-	char c;
+	char lc;
 
-	c = 'a';
-
-	while
-	(c <= 'z');
+	for (lc = 'a'; lc <= 'z'; lc++)
 	{
-		putchar(c);
+		putchar(lc);
 	}
 	putchar('\n');
 	return (0);
