@@ -3,7 +3,7 @@
 /**
  * print_sign - prints sign of numbers
  * @n: number to be checked for
- * return: (1) and prints ('+') if n is greater than zero
+ * Return: (1) and prints ('+') if n is greater than zero
  * 0 and prints 0 if n is zero
  * -1 and prints ('-') if n is less than zero
  */
